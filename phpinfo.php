@@ -8,5 +8,4 @@
  </form>
 <?php
     phpinfo();
-    dasdas
 ?>
